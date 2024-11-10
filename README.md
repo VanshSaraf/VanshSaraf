@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me: 💻 Currently in Full Stack Website Development<br>🎢 Open to discussing new opportunities<br> ⚓ Tackling challenging projects<br>🌐Connecting with like-minded professionals.
+💫 About Me: 💻 Currently in Full Stack Web Development<br>🎢 Open to discussing new opportunities<br> ⚓ Tackling challenging projects<br>🌐Connecting with like-minded professionals.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSaraf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VanshSaraf&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
