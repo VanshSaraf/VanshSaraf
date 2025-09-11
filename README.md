@@ -4,9 +4,7 @@
 </p>
 
 <!-- Cool coding banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="640">
-</p>
+
 
 <p align="center">
   <a href="mailto:vanshsaraf2006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vanshsaraf2006%40gmail.com-red?logo=gmail"></a>
