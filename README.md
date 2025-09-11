@@ -1,18 +1,70 @@
-# 💫 About Me:
-💫 About Me: 💻 Currently in Full Stack Web Development<br>🎢 Open to discussing new opportunities<br> ⚓ Tackling challenging projects<br>🌐Connecting with like-minded professionals.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:2c5364&text=Vansh%20Saraf&fontColor=ffffff&fontAlign=50&fontAlignY=35" alt="Vansh Saraf header" />
+</p>
 
+<!-- Cool coding banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="640">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh_saraf_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshsaraf) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VanshSaraf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VanshSaraf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSaraf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="mailto:vanshsaraf2006@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vanshsaraf2006%40gmail.com-red?logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/vanshsaraf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vanshsaraf-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/VanshSaraf"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-VanshSaraf-181717?logo=github"></a>
+  <a href="https://portfolio-vansh-saraf.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-4b5563?logo=vercel&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Vansh_Saraf_1702/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Vansh__Saraf__1702-FFA116?logo=leetcode&logoColor=white"></a>
+</p>
 
 ---
 
+## 👋 Hey! I’m Vansh
+- 🎓 IT undergrad @ NIT Jalandhar (CGPA ~8.63)
+- 💻 Full-Stack Developer (MERN) · C++ & DSA
+- 🔎 Open to internships & collaborations
+- ⚙️ I enjoy building reliable, scalable web apps
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 What I’m focusing on
+- Full-stack apps with clean APIs (Node/Express), solid DB design (MongoDB/MySQL), and smooth UI (React/Tailwind)
+- Systems fundamentals: OS · DBMS · CN · OOP
+- DSA practice (LeetCode + TUF)
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,c,js,ts,html,css,react,redux,nodejs,express,mongodb,mysql,git,github,tailwind" />
+</p>
+
+---
+
+## 🚀 Projects Snapshot
+- **Doctamigo (MERN, Tailwind):** Telemedicine platform with secure auth, role-based profiles, responsive UI, and efficient booking.
+- **CryptoSphere (MERN, Redux Toolkit, AntD):** Real-time crypto data/news with optimized fetches and smooth navigation.
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VanshSaraf&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=false&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshSaraf&layout=compact&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 🧮 LeetCode
+<p>
+  <img src="https://leetcard.jacoblin.cool/Vansh_Saraf_1702?ext=heatmap&theme=dark" alt="LeetCode Card" />
+</p>
+
+---
+
+## 🤝 Let’s connect
+If you’re building something exciting in full-stack or DSA-heavy projects—reach out!
+**Email:** <a href="mailto:vanshsaraf2006@gmail.com">vanshsaraf2006@gmail.com</a> · **LinkedIn:** <a href="https://www.linkedin.com/in/vanshsaraf/">vanshsaraf</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0f2027,100:2c5364" />
+</p>
